@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Dice Game</string>
+    <string name="keyPref_lastMove" translatable="false">lastMove</string>
+    <string name="archive_name" translatable="false">data</string>
 </resources>
